@@ -23,7 +23,9 @@ The other are determine by cross validation and comparison with original paper:
 
 For conciseness, the OAS files from iccad2019 benchmarks are converted to GDS with kLayout.
 
-The GDS parser 
+The benchmarks can be found here: [Benchmarks](https://drive.google.com/drive/folders/1iqZEqu0dZ17qdtOipxS3ARAbBhgy2dCU?usp=share_link)
+
+The GDS parser is from [Limbo](https://github.com/limbo018/Limbo) 
 
 ### Installation
 
